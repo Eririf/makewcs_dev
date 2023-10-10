@@ -1,0 +1,2 @@
+astropy==5.3.4
+astropy-healpix==1.0.0
